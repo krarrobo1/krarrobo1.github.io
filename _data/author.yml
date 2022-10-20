@@ -1,23 +1,23 @@
-name: Sharad Raj
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+name: Ricardo Arrobo
+dp: https://avatars.githubusercontent.com/u/26930130?s=400&u=525f889b7f929d7f6b9eae3a5c413575238536b1&v=4
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+   My name is Ricardo Arrobo and I'm a software engineer. I'm from Ecuador, living in Loja and currently working at <a href='https://www.stackbuilders.com>'>Stackbuilders</a>.
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
-  </P>
+    On this page you can find some information about me and a few blog posts I wrote. Most of them are about topics that I'm most interested in, such as books, best practices or about programming languages.
+  </p>
+  <br/>
+  <p>
+    You can found me in <a href='https://github.com/krarrobo1' target='_blank'>Github</a>
+  </p>
 "
-email: dev_sharad@outlook.com
+email: ricardoarrobo@gmail.com
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+    url: https://www.linkedin.com/in/kelvin-ricardo-arrobo-castillo-73443010b
   - title: github
-    url: https://github.com/sharadcodes
-  - title: twitter
-    url: https://twitter.com/iamsharadraj
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://github.com/krarrobo1
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:ricardoarrobo@gmail.com
